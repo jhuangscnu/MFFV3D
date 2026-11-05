@@ -1,0 +1,13 @@
+
+kang_3dfv params: 1.99092M, flops: 0.03143552G
+resnet params: 23.8434M, flops: 3.599551488G
+mobilenetv2 params: 7.073848M, flops: 0.092303168G
+ghostnet params: 3.094508M, flops: 0.04563372G
+efficientnet params: 10.369956M, flops: 0.377373408G
+xception params: 31.051376M, flops: 4.590279712G
+fsnet_f params: 1.661992M, flops: 0.23672928G
+fsnet_s params: 1.508776M, flops: 0.14340192G
+fsnet_a params: 1.53028M, flops: 0.214916608G
+fsnet_fa params: 1.487272M, flops: 0.195649024G
+fsnet_sa params: 1.334056M, flops: 0.102321664G
+fsnet_x params: 1.705M, flops: 0.255996864G
